@@ -234,8 +234,7 @@ Add your dashboard screenshot here.
 
 Example:
 
-![Dashboard Preview](<img width="1879" height="905" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/e03db74a-20e1-40fa-8db7-976e6889434f" />
-)
+![Dashboard Preview]("C:\Users\HP\Downloads\EDA\Dashboard Screenshot.png")
 
 ---
 
