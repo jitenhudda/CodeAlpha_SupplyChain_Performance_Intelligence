@@ -228,16 +228,6 @@ Based on the analysis:
 
 ---
 
-## Dashboard Preview
-
-Add your dashboard screenshot here.
-
-Example:
-
-![Dashboard Preview]("C:\Users\HP\Downloads\EDA\Dashboard Screenshot.png")
-
----
-
 ## Learning Outcomes
 
 Through this project, the following skills were applied and strengthened:
