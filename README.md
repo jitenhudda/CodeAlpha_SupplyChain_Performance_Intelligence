@@ -2,8 +2,6 @@
 
 ## Overview
 
-This project was developed as part of the CodeAlpha Data Analytics Internship.
-
 The goal of this project is to perform an end-to-end Exploratory Data Analysis (EDA) on the DataCo Smart Supply Chain dataset and transform raw operational data into actionable business insights.
 
 The analysis explores sales performance, profitability, customer demand patterns, delivery performance, and operational efficiency. In addition, an interactive Business Intelligence dashboard was built using Streamlit and Plotly to help users explore the data dynamically.
@@ -160,7 +158,7 @@ The project includes a professional interactive dashboard built with Streamlit.
 ## Project Structure
 
 ```text
-CodeAlpha_SupplyChain_Performance_Intelligence/
+SupplyChain_Performance_Intelligence/
 
 ├── EDA_Task1.ipynb
 ├── app.py
@@ -245,5 +243,3 @@ Through this project, the following skills were applied and strengthened:
 ## Author
 
 Jiten Hudda
-
-CodeAlpha Data Analytics Internship Project
